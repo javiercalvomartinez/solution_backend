@@ -112,7 +112,7 @@ Backend position skill assessment home assignment.
 
 # Tasks
 
-- There are implemented three endpoints as a REST API. GET, POST and DELETE 
+- There are implemented three endpoints as a REST API. GET, POST and DELETE. To make the GET/POST/DELETE, use the user: root, password: root
 - Implemented an endpoint for retrieving the exchange price history of the followed currencies. This endpoint
      allows specifying the currencie to be included the following fields are included: bid, ask, spread, 
      bid-diff (the difference between the bid and the previous hour mean bid), ask-diff (the difference between 
